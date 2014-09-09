@@ -1,4 +1,4 @@
-Slideshow Using AngularJS and Greensock Timeline
+Realtime Slideshow Using AngularJS and Firebase
 =============================
 
-An AngularJS slideshow using the Greensock timeline.
+An realtime AngularJS slideshow using Firebase and Greensock TweenMax.
